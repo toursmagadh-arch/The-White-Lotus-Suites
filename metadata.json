@@ -1,0 +1,6 @@
+{
+  "name": "Grand Royale - Hotel Management System",
+  "description": "Comprehensive enterprise Hotel Property Management System (PMS) featuring reservations, room matrix, front desk, housekeeping, restaurant POS, inventory, billing & folios, staff management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
